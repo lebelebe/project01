@@ -1,0 +1,147 @@
+[
+    {
+    "d1text": 
+        {
+        "nm": "삼양그룹소개",
+        "link": "#about",
+        "d1Class": "d1",
+        "d2ul":[
+                {   
+                "d2nm": "삼양홀딩스 소개",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "Chariman 인사말",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "Vision",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "삼양가치",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "CI소개",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "연혁",
+                "d2link": "#link",
+                "d2Class": "d2"
+                }
+            ]   
+        }
+    },
+    {
+    "d1text": 
+        {
+        "nm": "사업소개",
+        "link": "#about",
+        "d1Class": "d1",
+        "d2ul": [
+                {   
+                "d2nm": "그룹소개",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "화학사업 부문",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "식품사업 부문",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "패키징사업 부문",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "의약바이오산업 부문",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "개별사업 부문",
+                "d2link": "#link",
+                "d2Class": "d2"
+                }
+            ]   
+        }
+    },
+    {
+    "d1text": 
+        {
+        "nm": "투자정보",
+        "link": "#about",
+        "d1Class": "d1",
+        "d2ul": [
+                {   
+                "d2nm": "주요현황",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "재무정보",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "IR자료실",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "공시정보",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "공고",
+                "d2link": "#link",
+                "d2Class": "d2"
+                }
+            ]   
+        }
+    },
+    {
+    "d1text": 
+        {
+        "nm": "사회공헌",
+        "link": "#about",
+        "d1Class": "d1",
+        "d2ul": [
+                {   
+                "d2nm": "사회공헌 개요",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "사회공헌 활동",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "재단",
+                "d2link": "#link",
+                "d2Class": "d2"
+                },
+                { 
+                "d2nm": "활동소식",
+                "d2link": "#link",
+                "d2Class": "d2"
+                }
+            ]   
+        }
+    } 
+]
